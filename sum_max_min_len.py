@@ -1,0 +1,6 @@
+n=int(input())
+data=list(map(int,input().split()))
+print(sum(data))
+print(max(data))
+print(min(data))
+print(len(data))
